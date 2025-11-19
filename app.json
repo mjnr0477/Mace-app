@@ -2,13 +2,30 @@
   "expo": {
     "name": "Mace App",
     "slug": "Mace-App",
-    "platforms": ["ios","android","web"],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "sdkVersion": "54.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "splash": {"image":"./assets/splash.png","resizeMode":"contain","backgroundColor":"#ffffff"},
-    "updates":{"fallbackToCacheTimeout":0},
-    "assetBundlePatterns":["**/*"]
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0e9bbdd9-5d27-4c96-be8d-c43d24517eff"
+      }
+    }
   }
 }
