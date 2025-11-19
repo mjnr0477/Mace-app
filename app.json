@@ -26,6 +26,12 @@
       "eas": {
         "projectId": "0e9bbdd9-5d27-4c96-be8d-c43d24517eff"
       }
+    },
+    "android": {
+      "package": "com.booker.maceapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.booker.maceapp"
     }
   }
 }
