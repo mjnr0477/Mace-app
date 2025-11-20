@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "748217789233",
+    "project_id": "pulse-f5547",
+    "storage_bucket": "pulse-f5547.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748217789233:android:245256b646a47bcb129e10",
+        "android_client_info": {
+          "package_name": "Com.booker.pulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748217789233-1vavc7932mib0e3dmb6lqmk6ih9ig9r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBku2qgN1ftioVdfNcvnDgCWSkN9mwx0iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748217789233-1vavc7932mib0e3dmb6lqmk6ih9ig9r6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748217789233-1udq68dluqg0matul97ie0pbtqvfmo08.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.booker.pulsa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748217789233:android:4c15e323a96f461c129e10",
+        "android_client_info": {
+          "package_name": "com.booker.newpulsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748217789233-1vavc7932mib0e3dmb6lqmk6ih9ig9r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBku2qgN1ftioVdfNcvnDgCWSkN9mwx0iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748217789233-1vavc7932mib0e3dmb6lqmk6ih9ig9r6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748217789233-1udq68dluqg0matul97ie0pbtqvfmo08.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.booker.pulsa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748217789233:android:8777d3a4a612fada129e10",
+        "android_client_info": {
+          "package_name": "com.booker.pulsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748217789233-1vavc7932mib0e3dmb6lqmk6ih9ig9r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBku2qgN1ftioVdfNcvnDgCWSkN9mwx0iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748217789233-1vavc7932mib0e3dmb6lqmk6ih9ig9r6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748217789233-1udq68dluqg0matul97ie0pbtqvfmo08.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.booker.pulsa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
